@@ -33,5 +33,11 @@
     <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
     <orderEntry type="library" name="Maven: javax.servlet:javax.servlet-api:4.0.1" level="project" />
     <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.5" level="project" />
+    <orderEntry type="library" name="Maven: com.google.maps:google-maps-services:0.9.4" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okhttp3:okhttp:3.14.2" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okio:okio:1.17.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.slf4j:slf4j-api:1.7.26" level="project" />
+    <orderEntry type="library" name="Maven: com.google.okhttp:okhttp:20120626" level="project" />
+    <orderEntry type="library" name="Maven: org.mortbay.jetty.npn:npn-boot:8.1.2.v20120308" level="project" />
   </component>
 </module>

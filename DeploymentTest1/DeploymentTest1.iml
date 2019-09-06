@@ -29,7 +29,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="Google App Engine Standard Local Server16" level="application_server_libraries" />
+    <orderEntry type="library" scope="PROVIDED" name="Google App Engine Standard Local Server13" level="application_server_libraries" />
     <orderEntry type="library" name="Maven: javax.servlet:javax.servlet-api:4.0.1" level="project" />
   </component>
 </module>

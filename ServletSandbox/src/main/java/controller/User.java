@@ -18,6 +18,10 @@ public class User extends HttpServlet {
         if (user != null) {
             request.setAttribute("username", user.toString());
             request.getRequestDispatcher("user.jsp").forward(request, response);
+        } else {
+            // God adfærd ✅.toLowerCase()
+            request.setAttribute("error", "You need to sign in.");
+            request.getRequestDispatcher("login.jsp").forward(request, response);
         }
     }
 }
